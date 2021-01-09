@@ -21,9 +21,9 @@ public class echoAR : MonoBehaviour
 {
 
     // Your echoAR API key
-    public string APIKey = "<YOUR_API_KEY>";
+    public string APIKey = "<API_KEY>";
     private string serverURL;
-    public string ENTRY_ID = "29fb89b9-974b-41ed-a48c-2a16dae59bf1";
+    public string ENTRY_ID = "<ENTRY_ID>";
 
     // echoAR Database
     static public Database dbObject;

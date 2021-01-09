@@ -9,6 +9,7 @@
     "com.unity.xr.arfoundation": "4.1.1",
     "com.unity.xr.arkit": "4.1.1",
     "com.unity.xr.arkit-face-tracking": "4.1.1",
+    "com.unity.xr.arsubsystems": "4.1.1",
     "com.unity.xr.interaction.toolkit": "1.0.0-pre.1",
     "com.unity.xr.management": "3.2.17",
     "com.unity.modules.ai": "1.0.0",
